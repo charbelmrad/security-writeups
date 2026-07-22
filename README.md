@@ -13,7 +13,7 @@ reported.
 - [Reflected XSS into HTML Context](web-application/xss/portswigger-reflected-xss-html-context.md)
 
 ### SQL Injection
-_(coming soon)_
+- [SQL Injection Login Bypass](web-application/sqli/portswigger-sql-injection-login-bypass.md)
 
-### Access Control
-_(coming soon)_
+
+
