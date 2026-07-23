@@ -15,5 +15,6 @@ reported.
 ### SQL Injection
 - [SQL Injection Login Bypass](web-application/sqli/portswigger-sql-injection-login-bypass.md)
 
-
+### Access Control
+- [IDOR — User ID Controlled by Request Parameter](web-application/access-control/portswigger-idor-user-id-parameter.md)
 
