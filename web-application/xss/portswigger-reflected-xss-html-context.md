@@ -1,8 +1,8 @@
 # Reflected XSS into HTML Context (No Encoding)
 
-**Platform:** PortSwigger Web Security Academy
-**Category:** Cross-Site Scripting (XSS)
-**Difficulty:** Apprentice
+**Platform:** PortSwigger Web Security Academy.
+**Category:** Cross-Site Scripting (XSS).
+**Difficulty:** Apprentice.
 
 ## Objective
 Identify and exploit a reflected XSS vulnerability in a blog's search feature.
