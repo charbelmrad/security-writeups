@@ -1,8 +1,8 @@
 # SQL Injection Vulnerability Allowing Login Bypass
 
-**Platform:** PortSwigger Web Security Academy
-**Category:** SQL Injection
-**Difficulty:** Apprentice
+**Platform:** PortSwigger Web Security Academy.
+**Category:** SQL Injection.
+**Difficulty:** Apprentice.
 
 ## Objective
 Bypass authentication on a login form by exploiting a SQL injection
