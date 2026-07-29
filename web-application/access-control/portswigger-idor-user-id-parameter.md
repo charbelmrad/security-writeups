@@ -1,8 +1,8 @@
 # User ID Controlled by Request Parameter (IDOR)
 
-**Platform:** PortSwigger Web Security Academy
-**Category:** Access Control / IDOR
-**Difficulty:** Apprentice
+**Platform:** PortSwigger Web Security Academy.
+**Category:** Access Control / IDOR.
+**Difficulty:** Apprentice.
 
 ## Objective
 Access another user's account data by manipulating a client-controlled
