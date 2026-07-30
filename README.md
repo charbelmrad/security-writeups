@@ -18,3 +18,5 @@ reported.
 ### Access Control
 - [IDOR — User ID Controlled by Request Parameter](web-application/access-control/portswigger-idor-user-id-parameter.md)
 
+### Notes
+- [File Upload Vulnerabilities — Concept Notes](notes/file-upload-vulnerabilities-concepts.md)
