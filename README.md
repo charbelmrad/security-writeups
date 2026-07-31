@@ -20,3 +20,6 @@ reported.
 
 ### Notes
 - [File Upload Vulnerabilities — Concept Notes](notes/file-upload-vulnerabilities-concepts.md)
+
+### JWT Attacks
+- [JWT Authentication Bypass via Unverified Signature](web-application/jwt/portswigger-jwt-unverified-signature.md)
